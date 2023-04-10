@@ -13,6 +13,7 @@
 - SIP008 online configuration delivery.
 
 ## Downloads
+国内翻墙使用 自动订阅更新网络节点 菲律宾、柬埔寨、缅甸代理访问专用
 
 Download from [releases](https://github.com/shadowsocks/shadowsocks-windows/releases).
 
